@@ -1,0 +1,1 @@
+This error occurs when using AsyncStorage in Expo and you try to store a value that's too large. AsyncStorage has limits on the amount of data it can store in a single key.  If you exceed these limits, you'll encounter this cryptic error.  The actual error message might be vague, making it hard to pinpoint the cause.
